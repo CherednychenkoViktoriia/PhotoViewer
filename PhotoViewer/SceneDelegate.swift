@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  PhotoViewer
 //
-//  Created by Viktoriia Cherednychenko on 02.02.2022.
-//
 
 import UIKit
 

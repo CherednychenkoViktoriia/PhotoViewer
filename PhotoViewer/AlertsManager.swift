@@ -2,8 +2,6 @@
 //  AlertsManager.swift
 //  PhotoViewer
 //
-//  Created by Viktoriia Cherednychenko on 13.06.2022.
-//
 
 import Foundation
 import UIKit
